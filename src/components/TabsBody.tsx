@@ -110,7 +110,7 @@ const TabsBody = ({ loading }: { loading: boolean }) => {
             }}
           >
             <img src="/logo.svg" alt="logo" width={60} />
-            <h1>NFTAuth</h1>
+            <h1>TWallet</h1>
           </div>
         </DrawerHeader>
         <Divider style={{ borderColor: "#e6e6e6", borderWidth: 1 }} />

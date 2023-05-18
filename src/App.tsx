@@ -24,7 +24,7 @@ const App: React.FC = () => {
               src="/logo.svg"
               alt=""
             />
-            NFTAuth
+            TWallet
           </h1>
           <Button
             style={{
